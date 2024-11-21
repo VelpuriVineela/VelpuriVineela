@@ -1,58 +1,30 @@
-# 🌟 Hey, I'm Vineela Velpuri!  
+<h1 align="center">Hi 👋, I'm Velpuri Vineela</h1>
+<h3 align="center">A curious and creative software developer from India, passionate about building beautiful, user-friendly websites.</h3>
 
-Welcome to my GitHub corner, where creativity meets code! 🚀  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=velpurivineela&label=Profile%20views&color=0e75b6&style=flat" alt="velpurivineela" /> </p>
 
-I’m a **MERN Stack Developer** with a passion for transforming ideas into **interactive and user-friendly web experiences**. From eye-catching interfaces to seamless backend solutions, I strive to craft applications that not only work but leave a lasting impression.  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=velpurivineela" alt="velpurivineela" /></a> </p>
 
----
+- 🔭 I’m currently working on **Building my expertise in ReactJS and advanced frontend development**
 
-## 💡 About Me  
+- 🌱 I’m currently learning **Improving my skills in advanced frontend technologies like ReactJS and TailwindCSS, while deepening my understanding of backend technologies such as Node.js and Express.js.**
 
-- 🖥️ **Developer by Day:** Crafting dynamic websites with **React.js, Node.js, and MongoDB**.  
-- 🎨 **Explorer by Night:** Experimenting with animations, designs, and modern web trends.  
-- 🌱 **Always Learning:** Whether it’s mastering new tools or diving into ethical hacking, the journey never ends.  
+- 👯 I’m looking to collaborate on **Open-source frontend projects.**
 
----
+- 🤝 I’m looking for help with **Contributing to advanced ReactJS projects and improving backend integration skills.**
 
-## 🔥 Highlight Reel  
+- 👨‍💻 All of my projects are available at [https://vineelaportfolio.netlify.app/](https://vineelaportfolio.netlify.app/)
 
-### 🏡 **Real Estate Redefined**  
-A blazing-fast platform to simplify property searches.  
-> **✨ Features:** JWT Authentication, Real-Time Updates, Image Uploads, and Advanced Search.  
-> **💻 Tech Stack:** React | Node.js | MongoDB | Firebase  
+- 💬 Ask me about **ReactJS, JavaScript, frontend development best practices, and integrating frontend with backend technologies. nnmmjk**
 
-### 🌀 **GitHub Clone – My Version of GitHub**  
-Built with attention to detail and a passion for learning.  
-> **✨ Features:** Clean UI and essential GitHub-like functionalities.  
-> **💻 Tech Stack:** React | JavaScript | CSS  
+- 📫 How to reach me **vineelavelpuri@gmail.com**
 
-### 🌌 **iPhone 15 Pro Clone – Inspired by Excellence**  
-A visually stunning showcase of the iPhone 15 Pro with animations and interactivity.  
-> **✨ Features:** Immersive GSAP Animations, Three.js Visuals, and TailwindCSS.  
-> **💻 Tech Stack:** React | GSAP | Three.js  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vineelavelpuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineelavelpuri" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 🛠️ Tech Toolbox  
-
-- **Frontend Magic:** React.js, JavaScript, HTML, CSS, TailwindCSS.  
-- **Backend Muscle:** Node.js, Express.js, MongoDB.  
-- **Extras:** Git, GitHub, Firebase, REST APIs.  
-
----
-
-## 🌟 My Motto  
-
-_"Code with care, create with love."_ 💖  
-
----
-
-## 🚀 Let’s Connect!  
-
-- **Portfolio:** [Check it Out!](https://velpurivineela.github.io/my_portfolio/)  
-- **GitHub:** [@velpurivineela](https://github.com/velpurivineela)  
-- **LinkedIn:** [Vineela Velpuri](https://www.linkedin.com/in/vineela-velpuri/)  
-
----
-
-### Thanks for stopping by! 💬 Let’s build something amazing together!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velpurivineela&" alt="velpurivineela" /></p>

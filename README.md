@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source frontend projects.**
 
-- 🤝 I’m looking for help with **Contributing to advanced ReactJS projects and improving backend integration skills.**
+- 🤝 I’m looking for **Full-Time Job Oppurtunities and Contribution to advanced ReactJS projects and improving backend integration skills.**
 
 - 👨‍💻 All of my projects are available at [https://vineelaportfolio.netlify.app/](https://vineelaportfolio.netlify.app/)
 
